@@ -1,6 +1,6 @@
 # Image Enhancement, Edge Detection, dan Binerisasi Citra dengan Python.
 
-Untuk penjelasan singkat mengenai program diatas, dapat ditonton melalui video youtube [![DISINI](https://img.youtube.com/vi/sJbagx-Dnro/0.jpg)](https://www.youtube.com/watch?v=sJbagx-Dnro).
+Untuk penjelasan singkat mengenai program diatas, dapat ditonton melalui video youtube dibawah ini. [![KLIK DISINI](https://img.youtube.com/vi/sJbagx-Dnro/0.jpg)](https://www.youtube.com/watch?v=sJbagx-Dnro).
 
 ## 1. Image Enhancement.
 
